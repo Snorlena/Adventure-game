@@ -1,0 +1,38 @@
+Du befinner dig i en mörk skog. Du är frusen och det är bara massa träd runtomkring dig. Du ser en liten stig åt norr.#
+Du följer stigen med tunga steg, här finns inte mycket mer än mera träd och fortsättningen på stigen.#
+Vägen delar på sig. Stigen fortsätter åt öster och åt norr är en stor port.#
+Du följer stigen. Du kan gå åt öster eller väster.#
+Du är vid en liten bäck med rinnande vatten som har magiska krafter. Du kan gå åt öster eller väster.#
+Stigen svänger. Du kan gå åt söder eller väster.#
+Du fortsätter på stigen.#
+Stigen delar på sig. Du kan gå norr, öster eller väster.#
+Du hittar ett svärd som du plockar upp.#
+Du följer stigen.#
+Stigen svänger. Du kan gå åt norr eller väster.#
+Du hittar en hink med en nyckel i. Undrar vart den går?#
+Det är bara massa träd här. Åt söder ligger en port. Stigen fortsätter åt norr.#
+Du kommer till en korsning. Du kan gå åt norr, väster eller söder.#
+Du går på en stig. Du kan gå åt väster eller öster.#
+Stigen svänger. Du kan gå åt söder eller öster.#
+Stigen svänger. Du kan gå åt väster eller norr.#
+ #
+Framför dig än det en stor port. Du kan gå åt norr, söder eller öster#
+Framför dig är en stor port. Du kan gå åt väster eller öster#
+Du står på östra sidan av porten. Du kan gå till öster eller väster#
+Stigen svänger. Du kan gå till väster eller söder.#
+Stigen svänger. Du kan gå till öster eller norr.#
+Du följer stigen. Du kan gå väster eller öster#
+Du kommer fram till en korsning. Du kan gå åt norr, söder eller väster.#
+Du följer stigen. Du kan gå norr eller söder.#
+ #
+Du hittar en stor yxa. Du kan gå åt norr.#
+Du tog dig igenom porten. Du kan gå åt söder eller väster.#
+Du följer stigen. Du kan gå till väster eller öster.#
+Du följer stigen. Du kan gå till väster eller öster.#
+Du följer stigen. Du kan gå till väster eller öster.#
+Stigen svänger. Du kan gå till öster eller söder.#
+Du har hittat ut ur skogen. Du ser en busshållsplats och tar bussen hem. SLUT
+Ide: Tomas Björklund.
+Programmering: Tomas Björklund & Marcus Aka MaloW
+Karta: Tomas Björklund.
+Ett stort tack till Malow och alla andra som har hjälp mig att skapa detta.#
